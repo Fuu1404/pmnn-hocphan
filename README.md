@@ -1,7 +1,7 @@
 # Thông tin sinh viên
 
 * **Họ và tên:** Châu Nhuận Phát
-* **Mã sinh viên:** 21T1020377
+* **Mã sinh viên:** 23T1020377
 * **Lớp:** K47 L - Công Nghệ Thông Tin
 
 ---
